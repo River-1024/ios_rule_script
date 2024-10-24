@@ -128,3 +128,19 @@
   - DOMAIN-SUFFIX,stream2.misakaf.org
   - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,stream4.misakaf.org
+  - DOMAIN-SUFFIX,bili.bili.rip
+  - DOMAIN-SUFFIX,cdn.bili.rip
+  - DOMAIN-SUFFIX,cf.bili.rip
+
+#!Emby-JMS（好鸭机场服）
+  - DOMAIN-SUFFIX,e.niceduck.me
+
+#!Emby-loser（好鸭机场服）
+  - DOMAIN-SUFFIX,cf.niceduck.lol
+#!新增测试
+  - DOMAIN,dpxcdn.niceduck.lol
+  - DOMAIN-SUFFIX,vi.niceduck.lol
+
+#!Emby-PiliPili（好鸭机场服）
+  - DOMAIN-SUFFIX,pilicf.niceduck.lol
+
