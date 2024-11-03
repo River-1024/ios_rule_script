@@ -1,0 +1,711 @@
+IP地址,数据中心,地区,城市,网络延迟
+104.19.34.191,HKG,Asia Pacific,Hong Kong,64 ms
+104.19.42.13,HKG,Asia Pacific,Hong Kong,66 ms
+104.19.33.89,HKG,Asia Pacific,Hong Kong,66 ms
+104.19.36.18,HKG,Asia Pacific,Hong Kong,67 ms
+104.19.32.147,HKG,Asia Pacific,Hong Kong,67 ms
+104.19.44.31,HKG,Asia Pacific,Hong Kong,68 ms
+104.19.41.251,HKG,Asia Pacific,Hong Kong,68 ms
+104.19.39.41,HKG,Asia Pacific,Hong Kong,69 ms
+104.19.40.134,HKG,Asia Pacific,Hong Kong,69 ms
+104.19.46.43,HKG,Asia Pacific,Hong Kong,69 ms
+104.19.38.123,HKG,Asia Pacific,Hong Kong,70 ms
+104.19.37.85,HKG,Asia Pacific,Hong Kong,70 ms
+104.19.45.62,HKG,Asia Pacific,Hong Kong,72 ms
+104.19.48.178,HKG,Asia Pacific,Hong Kong,74 ms
+104.19.49.2,HKG,Asia Pacific,Hong Kong,74 ms
+104.16.7.156,HKG,Asia Pacific,Hong Kong,89 ms
+162.159.43.130,HKG,Asia Pacific,Hong Kong,91 ms
+104.25.249.41,HKG,Asia Pacific,Hong Kong,93 ms
+172.67.7.217,HKG,Asia Pacific,Hong Kong,94 ms
+172.67.6.147,HKG,Asia Pacific,Hong Kong,95 ms
+172.67.12.71,HKG,Asia Pacific,Hong Kong,95 ms
+104.25.241.72,HKG,Asia Pacific,Hong Kong,96 ms
+172.67.9.163,HKG,Asia Pacific,Hong Kong,96 ms
+104.25.247.92,HKG,Asia Pacific,Hong Kong,96 ms
+162.159.138.137,HKG,Asia Pacific,Hong Kong,96 ms
+172.67.4.105,HKG,Asia Pacific,Hong Kong,97 ms
+172.67.3.165,HKG,Asia Pacific,Hong Kong,97 ms
+104.25.244.191,HKG,Asia Pacific,Hong Kong,97 ms
+104.25.243.188,HKG,Asia Pacific,Hong Kong,97 ms
+162.159.142.28,HKG,Asia Pacific,Hong Kong,97 ms
+162.159.143.82,HKG,Asia Pacific,Hong Kong,98 ms
+162.159.153.178,HKG,Asia Pacific,Hong Kong,98 ms
+172.67.2.82,HKG,Asia Pacific,Hong Kong,98 ms
+172.67.15.28,HKG,Asia Pacific,Hong Kong,98 ms
+162.159.136.110,HKG,Asia Pacific,Hong Kong,99 ms
+172.67.11.6,HKG,Asia Pacific,Hong Kong,99 ms
+104.16.15.46,HKG,Asia Pacific,Hong Kong,99 ms
+172.67.10.33,HKG,Asia Pacific,Hong Kong,100 ms
+104.25.242.128,HKG,Asia Pacific,Hong Kong,101 ms
+162.159.133.204,HKG,Asia Pacific,Hong Kong,101 ms
+104.25.240.195,HKG,Asia Pacific,Hong Kong,102 ms
+172.67.0.12,HKG,Asia Pacific,Hong Kong,102 ms
+104.25.248.25,HKG,Asia Pacific,Hong Kong,102 ms
+172.67.13.152,HKG,Asia Pacific,Hong Kong,102 ms
+162.159.135.254,HKG,Asia Pacific,Hong Kong,103 ms
+162.159.152.10,HKG,Asia Pacific,Hong Kong,103 ms
+104.25.245.222,HKG,Asia Pacific,Hong Kong,103 ms
+162.159.134.61,HKG,Asia Pacific,Hong Kong,104 ms
+162.159.141.58,HKG,Asia Pacific,Hong Kong,104 ms
+104.25.251.16,HKG,Asia Pacific,Hong Kong,104 ms
+104.25.252.65,HKG,Asia Pacific,Hong Kong,104 ms
+104.16.3.235,HKG,Asia Pacific,Hong Kong,104 ms
+162.159.140.116,HKG,Asia Pacific,Hong Kong,105 ms
+104.25.254.196,HKG,Asia Pacific,Hong Kong,106 ms
+172.67.5.53,HKG,Asia Pacific,Hong Kong,107 ms
+172.67.8.117,HKG,Asia Pacific,Hong Kong,107 ms
+172.67.14.52,HKG,Asia Pacific,Hong Kong,109 ms
+104.16.6.12,HKG,Asia Pacific,Hong Kong,109 ms
+104.16.10.47,HKG,Asia Pacific,Hong Kong,109 ms
+104.16.0.150,HKG,Asia Pacific,Hong Kong,110 ms
+104.16.2.68,HKG,Asia Pacific,Hong Kong,110 ms
+162.159.129.241,HKG,Asia Pacific,Hong Kong,110 ms
+162.159.130.250,HKG,Asia Pacific,Hong Kong,110 ms
+162.159.128.55,HKG,Asia Pacific,Hong Kong,110 ms
+104.16.1.13,HKG,Asia Pacific,Hong Kong,111 ms
+1.1.1.139,NRT,Asia Pacific,Tokyo,111 ms
+104.16.12.31,HKG,Asia Pacific,Hong Kong,112 ms
+172.67.145.144,SEA,North America,Seattle,138 ms
+172.67.184.144,SEA,North America,Seattle,142 ms
+172.64.159.78,HKG,Asia Pacific,Hong Kong,144 ms
+104.17.229.101,SEA,North America,Seattle,144 ms
+104.16.39.89,SEA,North America,Seattle,144 ms
+104.21.229.114,SEA,North America,Seattle,145 ms
+104.22.55.174,SEA,North America,Seattle,146 ms
+104.18.28.169,SEA,North America,Seattle,146 ms
+104.21.26.46,SEA,North America,Seattle,148 ms
+198.41.208.234,HKG,Asia Pacific,Hong Kong,148 ms
+104.16.50.65,SEA,North America,Seattle,150 ms
+104.19.63.53,HKG,Asia Pacific,Hong Kong,153 ms
+104.16.13.120,SEA,North America,Seattle,153 ms
+104.19.58.240,HKG,Asia Pacific,Hong Kong,154 ms
+104.16.9.96,SEA,North America,Seattle,156 ms
+172.64.144.20,HKG,Asia Pacific,Hong Kong,156 ms
+104.18.6.16,SEA,North America,Seattle,156 ms
+104.19.59.109,HKG,Asia Pacific,Hong Kong,157 ms
+172.67.190.116,SEA,North America,Seattle,158 ms
+104.19.60.167,HKG,Asia Pacific,Hong Kong,159 ms
+172.64.145.82,HKG,Asia Pacific,Hong Kong,160 ms
+104.17.216.167,HKG,Asia Pacific,Hong Kong,163 ms
+104.21.23.254,SEA,North America,Seattle,164 ms
+104.19.153.19,HKG,Asia Pacific,Hong Kong,165 ms
+104.17.214.115,HKG,Asia Pacific,Hong Kong,165 ms
+104.17.213.9,HKG,Asia Pacific,Hong Kong,166 ms
+172.67.69.178,SEA,North America,Seattle,167 ms
+104.16.32.228,SEA,North America,Seattle,167 ms
+172.67.179.145,SEA,North America,Seattle,168 ms
+104.21.25.208,SEA,North America,Seattle,170 ms
+104.18.33.63,HKG,Asia Pacific,Hong Kong,171 ms
+104.16.34.137,SEA,North America,Seattle,171 ms
+172.67.159.191,SEA,North America,Seattle,171 ms
+104.18.35.197,HKG,Asia Pacific,Hong Kong,171 ms
+172.66.46.213,SEA,North America,Seattle,172 ms
+104.21.228.189,SEA,North America,Seattle,172 ms
+104.18.15.144,SEA,North America,Seattle,172 ms
+104.21.29.45,SEA,North America,Seattle,172 ms
+162.159.34.119,SEA,North America,Seattle,172 ms
+104.17.236.38,SEA,North America,Seattle,173 ms
+104.22.54.89,SEA,North America,Seattle,173 ms
+104.18.13.73,SEA,North America,Seattle,173 ms
+104.16.194.126,HKG,Asia Pacific,Hong Kong,173 ms
+104.19.162.114,SEA,North America,Seattle,173 ms
+104.17.228.27,SEA,North America,Seattle,173 ms
+172.66.40.95,SEA,North America,Seattle,174 ms
+104.17.241.127,SEA,North America,Seattle,174 ms
+104.17.209.198,HKG,Asia Pacific,Hong Kong,174 ms
+104.16.145.175,HKG,Asia Pacific,Hong Kong,174 ms
+104.18.21.40,SEA,North America,Seattle,174 ms
+104.22.58.124,SEA,North America,Seattle,174 ms
+104.16.144.29,HKG,Asia Pacific,Hong Kong,174 ms
+104.18.12.246,SEA,North America,Seattle,175 ms
+104.22.52.107,SEA,North America,Seattle,175 ms
+104.19.57.239,HKG,Asia Pacific,Hong Kong,175 ms
+172.66.44.244,SEA,North America,Seattle,175 ms
+172.67.186.250,SEA,North America,Seattle,175 ms
+104.16.35.221,SEA,North America,Seattle,175 ms
+172.67.162.163,SEA,North America,Seattle,175 ms
+104.18.0.198,SEA,North America,Seattle,175 ms
+104.17.223.124,HKG,Asia Pacific,Hong Kong,176 ms
+104.17.237.230,SEA,North America,Seattle,176 ms
+104.22.62.92,SEA,North America,Seattle,176 ms
+104.16.157.173,HKG,Asia Pacific,Hong Kong,176 ms
+104.16.63.5,SEA,North America,Seattle,177 ms
+104.17.219.100,HKG,Asia Pacific,Hong Kong,177 ms
+172.67.160.119,SEA,North America,Seattle,177 ms
+172.67.76.43,SEA,North America,Seattle,177 ms
+104.21.234.24,SEA,North America,Seattle,177 ms
+104.21.233.192,SEA,North America,Seattle,177 ms
+104.21.236.47,SEA,North America,Seattle,177 ms
+104.19.164.199,SEA,North America,Seattle,177 ms
+104.17.240.89,SEA,North America,Seattle,177 ms
+104.17.227.45,SEA,North America,Seattle,177 ms
+104.18.2.210,SEA,North America,Seattle,177 ms
+104.19.173.27,SEA,North America,Seattle,178 ms
+104.18.25.227,SEA,North America,Seattle,178 ms
+104.18.27.96,SEA,North America,Seattle,178 ms
+104.18.26.110,SEA,North America,Seattle,178 ms
+172.67.71.14,SEA,North America,Seattle,178 ms
+104.19.155.37,HKG,Asia Pacific,Hong Kong,178 ms
+104.19.161.190,SEA,North America,Seattle,178 ms
+172.67.181.97,SEA,North America,Seattle,178 ms
+104.18.24.75,SEA,North America,Seattle,178 ms
+104.17.248.213,SEA,North America,Seattle,178 ms
+172.67.75.167,SEA,North America,Seattle,178 ms
+172.67.167.142,SEA,North America,Seattle,179 ms
+104.18.16.219,SEA,North America,Seattle,179 ms
+172.66.41.222,SEA,North America,Seattle,179 ms
+104.16.47.112,SEA,North America,Seattle,179 ms
+172.67.175.26,SEA,North America,Seattle,179 ms
+104.18.30.109,SEA,North America,Seattle,179 ms
+104.18.29.51,SEA,North America,Seattle,179 ms
+104.21.232.195,SEA,North America,Seattle,179 ms
+104.16.38.73,SEA,North America,Seattle,179 ms
+104.22.59.221,SEA,North America,Seattle,179 ms
+104.19.172.171,SEA,North America,Seattle,179 ms
+104.17.191.182,HKG,Asia Pacific,Hong Kong,179 ms
+104.16.46.185,SEA,North America,Seattle,179 ms
+104.16.42.10,SEA,North America,Seattle,179 ms
+104.16.41.185,SEA,North America,Seattle,179 ms
+104.19.160.125,SEA,North America,Seattle,179 ms
+104.22.51.59,SEA,North America,Seattle,179 ms
+172.67.176.18,SEA,North America,Seattle,179 ms
+172.64.232.87,HKG,Asia Pacific,Hong Kong,179 ms
+104.22.56.200,SEA,North America,Seattle,180 ms
+104.17.251.154,SEA,North America,Seattle,180 ms
+104.17.249.159,SEA,North America,Seattle,180 ms
+104.17.212.84,HKG,Asia Pacific,Hong Kong,180 ms
+104.21.231.177,SEA,North America,Seattle,180 ms
+172.67.172.103,SEA,North America,Seattle,181 ms
+104.17.234.104,SEA,North America,Seattle,181 ms
+104.16.45.88,SEA,North America,Seattle,181 ms
+104.17.188.77,HKG,Asia Pacific,Hong Kong,181 ms
+172.67.171.85,SEA,North America,Seattle,182 ms
+162.159.42.203,SEA,North America,Seattle,182 ms
+104.17.231.245,SEA,North America,Seattle,183 ms
+23.227.38.57,SEA,North America,Seattle,183 ms
+104.17.187.1,HKG,Asia Pacific,Hong Kong,183 ms
+104.16.60.236,SEA,North America,Seattle,183 ms
+104.17.230.138,SEA,North America,Seattle,184 ms
+172.67.168.143,SEA,North America,Seattle,185 ms
+104.16.11.222,SEA,North America,Seattle,185 ms
+104.17.165.43,HKG,Asia Pacific,Hong Kong,186 ms
+172.67.166.170,SEA,North America,Seattle,186 ms
+104.17.155.200,HKG,Asia Pacific,Hong Kong,186 ms
+104.17.181.63,HKG,Asia Pacific,Hong Kong,186 ms
+104.21.20.235,SEA,North America,Seattle,187 ms
+104.17.186.98,HKG,Asia Pacific,Hong Kong,187 ms
+104.17.167.161,HKG,Asia Pacific,Hong Kong,187 ms
+104.17.169.25,HKG,Asia Pacific,Hong Kong,187 ms
+104.17.157.79,HKG,Asia Pacific,Hong Kong,187 ms
+104.17.156.115,HKG,Asia Pacific,Hong Kong,187 ms
+104.16.196.142,HKG,Asia Pacific,Hong Kong,188 ms
+104.17.178.118,HKG,Asia Pacific,Hong Kong,188 ms
+104.16.204.190,HKG,Asia Pacific,Hong Kong,188 ms
+104.17.153.3,HKG,Asia Pacific,Hong Kong,188 ms
+104.17.125.154,HKG,Asia Pacific,Hong Kong,188 ms
+104.17.164.26,HKG,Asia Pacific,Hong Kong,188 ms
+172.67.187.250,SEA,North America,Seattle,189 ms
+104.17.154.192,HKG,Asia Pacific,Hong Kong,189 ms
+104.17.174.217,HKG,Asia Pacific,Hong Kong,189 ms
+104.17.171.228,HKG,Asia Pacific,Hong Kong,189 ms
+104.17.177.110,HKG,Asia Pacific,Hong Kong,190 ms
+104.17.180.42,HKG,Asia Pacific,Hong Kong,190 ms
+104.16.206.149,HKG,Asia Pacific,Hong Kong,191 ms
+104.20.60.3,FRA,Europe,Frankfurt,191 ms
+104.17.158.178,HKG,Asia Pacific,Hong Kong,191 ms
+172.67.209.17,SJC,North America,San Jose,191 ms
+104.16.203.42,HKG,Asia Pacific,Hong Kong,191 ms
+104.16.200.146,HKG,Asia Pacific,Hong Kong,191 ms
+172.64.154.58,HKG,Asia Pacific,Hong Kong,192 ms
+104.17.152.45,HKG,Asia Pacific,Hong Kong,193 ms
+104.17.102.212,HKG,Asia Pacific,Hong Kong,193 ms
+104.17.170.24,HKG,Asia Pacific,Hong Kong,194 ms
+172.64.156.249,HKG,Asia Pacific,Hong Kong,194 ms
+104.17.54.122,HKG,Asia Pacific,Hong Kong,194 ms
+104.19.225.13,FRA,Europe,Frankfurt,194 ms
+104.16.192.31,HKG,Asia Pacific,Hong Kong,194 ms
+104.17.185.42,HKG,Asia Pacific,Hong Kong,194 ms
+104.17.217.246,HKG,Asia Pacific,Hong Kong,194 ms
+172.67.72.230,SEA,North America,Seattle,194 ms
+172.67.220.209,SJC,North America,San Jose,195 ms
+104.17.175.200,HKG,Asia Pacific,Hong Kong,195 ms
+104.17.104.165,HKG,Asia Pacific,Hong Kong,195 ms
+104.16.134.110,FRA,Europe,Frankfurt,195 ms
+104.17.173.79,HKG,Asia Pacific,Hong Kong,195 ms
+104.17.172.230,HKG,Asia Pacific,Hong Kong,195 ms
+104.17.176.172,HKG,Asia Pacific,Hong Kong,195 ms
+104.16.246.204,HKG,Asia Pacific,Hong Kong,195 ms
+104.17.99.133,HKG,Asia Pacific,Hong Kong,196 ms
+104.18.40.135,HKG,Asia Pacific,Hong Kong,196 ms
+104.17.98.254,HKG,Asia Pacific,Hong Kong,196 ms
+104.17.168.56,HKG,Asia Pacific,Hong Kong,196 ms
+104.17.183.5,HKG,Asia Pacific,Hong Kong,196 ms
+172.64.146.36,FRA,Europe,Frankfurt,197 ms
+104.17.215.64,HKG,Asia Pacific,Hong Kong,197 ms
+104.19.56.18,HKG,Asia Pacific,Hong Kong,197 ms
+104.19.55.15,HKG,Asia Pacific,Hong Kong,197 ms
+104.17.211.191,HKG,Asia Pacific,Hong Kong,197 ms
+104.19.159.216,HKG,Asia Pacific,Hong Kong,197 ms
+104.17.179.41,HKG,Asia Pacific,Hong Kong,197 ms
+104.16.240.155,HKG,Asia Pacific,Hong Kong,197 ms
+104.17.105.107,HKG,Asia Pacific,Hong Kong,197 ms
+104.19.148.116,HKG,Asia Pacific,Hong Kong,198 ms
+104.19.157.185,HKG,Asia Pacific,Hong Kong,198 ms
+104.17.210.206,HKG,Asia Pacific,Hong Kong,198 ms
+104.16.255.101,HKG,Asia Pacific,Hong Kong,198 ms
+104.19.52.193,HKG,Asia Pacific,Hong Kong,198 ms
+104.23.129.163,SJC,North America,San Jose,198 ms
+104.17.189.183,HKG,Asia Pacific,Hong Kong,198 ms
+104.19.226.122,FRA,Europe,Frankfurt,198 ms
+172.64.158.46,HKG,Asia Pacific,Hong Kong,199 ms
+172.64.157.206,HKG,Asia Pacific,Hong Kong,200 ms
+104.17.190.188,HKG,Asia Pacific,Hong Kong,200 ms
+172.67.157.175,SEA,North America,Seattle,200 ms
+172.64.155.47,HKG,Asia Pacific,Hong Kong,200 ms
+104.21.237.98,SEA,North America,Seattle,200 ms
+104.16.156.176,HKG,Asia Pacific,Hong Kong,201 ms
+104.17.103.180,HKG,Asia Pacific,Hong Kong,201 ms
+104.20.51.20,FRA,Europe,Frankfurt,201 ms
+104.21.24.78,SEA,North America,Seattle,201 ms
+104.17.252.14,SEA,North America,Seattle,201 ms
+104.19.232.99,FRA,Europe,Frankfurt,201 ms
+104.21.28.106,SEA,North America,Seattle,201 ms
+104.19.144.204,HKG,Asia Pacific,Hong Kong,201 ms
+172.67.180.10,SEA,North America,Seattle,202 ms
+104.17.220.200,HKG,Asia Pacific,Hong Kong,202 ms
+104.18.22.151,SEA,North America,Seattle,202 ms
+104.19.228.59,FRA,Europe,Frankfurt,202 ms
+104.16.207.248,HKG,Asia Pacific,Hong Kong,202 ms
+104.18.9.33,SEA,North America,Seattle,202 ms
+104.17.53.137,HKG,Asia Pacific,Hong Kong,202 ms
+104.22.60.122,SEA,North America,Seattle,202 ms
+104.20.54.150,FRA,Europe,Frankfurt,203 ms
+104.16.199.83,HKG,Asia Pacific,Hong Kong,203 ms
+104.16.201.74,HKG,Asia Pacific,Hong Kong,203 ms
+104.26.7.135,SEA,North America,Seattle,203 ms
+104.16.195.226,HKG,Asia Pacific,Hong Kong,203 ms
+104.21.31.119,SEA,North America,Seattle,203 ms
+172.67.146.86,SEA,North America,Seattle,203 ms
+104.18.137.10,SJC,North America,San Jose,203 ms
+104.18.14.241,SEA,North America,Seattle,203 ms
+104.19.239.169,FRA,Europe,Frankfurt,204 ms
+172.67.79.158,SEA,North America,Seattle,204 ms
+104.22.50.191,SEA,North America,Seattle,204 ms
+104.16.249.35,HKG,Asia Pacific,Hong Kong,204 ms
+104.17.222.241,HKG,Asia Pacific,Hong Kong,204 ms
+104.22.63.214,SEA,North America,Seattle,204 ms
+172.65.223.233,FRA,Europe,Frankfurt,204 ms
+104.16.132.162,FRA,Europe,Frankfurt,204 ms
+104.18.8.46,SEA,North America,Seattle,204 ms
+104.19.166.159,SEA,North America,Seattle,204 ms
+104.18.1.109,SEA,North America,Seattle,204 ms
+104.17.55.181,HKG,Asia Pacific,Hong Kong,204 ms
+104.18.23.60,SEA,North America,Seattle,204 ms
+172.67.185.14,SEA,North America,Seattle,204 ms
+104.16.241.235,HKG,Asia Pacific,Hong Kong,204 ms
+104.19.170.77,SEA,North America,Seattle,204 ms
+104.19.169.216,SEA,North America,Seattle,204 ms
+104.17.208.86,HKG,Asia Pacific,Hong Kong,204 ms
+104.19.156.30,HKG,Asia Pacific,Hong Kong,205 ms
+172.67.183.72,SEA,North America,Seattle,205 ms
+172.66.43.144,SEA,North America,Seattle,205 ms
+104.17.50.118,HKG,Asia Pacific,Hong Kong,205 ms
+104.18.10.64,SEA,North America,Seattle,205 ms
+172.65.32.20,SEA,North America,Seattle,205 ms
+172.67.154.16,SEA,North America,Seattle,205 ms
+172.67.153.12,SEA,North America,Seattle,205 ms
+104.19.145.229,HKG,Asia Pacific,Hong Kong,205 ms
+104.21.226.85,SEA,North America,Seattle,205 ms
+104.21.227.124,SEA,North America,Seattle,205 ms
+104.21.225.232,SEA,North America,Seattle,205 ms
+104.21.30.26,SEA,North America,Seattle,205 ms
+104.18.18.102,SEA,North America,Seattle,205 ms
+172.67.155.206,SEA,North America,Seattle,205 ms
+104.16.151.131,HKG,Asia Pacific,Hong Kong,205 ms
+172.67.74.52,SEA,North America,Seattle,205 ms
+104.16.245.206,HKG,Asia Pacific,Hong Kong,205 ms
+104.17.166.61,HKG,Asia Pacific,Hong Kong,205 ms
+104.17.218.228,HKG,Asia Pacific,Hong Kong,205 ms
+104.17.162.2,HKG,Asia Pacific,Hong Kong,205 ms
+104.17.255.94,SEA,North America,Seattle,206 ms
+104.16.43.186,SEA,North America,Seattle,206 ms
+104.16.40.39,SEA,North America,Seattle,206 ms
+104.19.167.71,SEA,North America,Seattle,206 ms
+104.16.140.221,FRA,Europe,Frankfurt,206 ms
+104.21.18.35,SEA,North America,Seattle,206 ms
+104.16.65.234,SJC,North America,San Jose,206 ms
+104.18.20.27,SEA,North America,Seattle,206 ms
+104.18.3.225,SEA,North America,Seattle,206 ms
+104.21.27.119,SEA,North America,Seattle,206 ms
+104.17.122.166,HKG,Asia Pacific,Hong Kong,206 ms
+172.66.42.196,SEA,North America,Seattle,206 ms
+162.159.35.85,SEA,North America,Seattle,206 ms
+104.26.14.105,SEA,North America,Seattle,207 ms
+104.19.212.95,SJC,North America,San Jose,207 ms
+104.19.230.95,FRA,Europe,Frankfurt,207 ms
+104.18.11.2,SEA,North America,Seattle,207 ms
+104.18.37.25,SEA,North America,Seattle,207 ms
+104.17.46.254,SJC,North America,San Jose,207 ms
+104.17.245.243,SEA,North America,Seattle,207 ms
+104.18.31.107,SEA,North America,Seattle,207 ms
+172.67.83.93,SJC,North America,San Jose,207 ms
+104.20.90.114,SJC,North America,San Jose,207 ms
+104.24.193.5,SJC,North America,San Jose,207 ms
+104.16.137.118,FRA,Europe,Frankfurt,208 ms
+104.16.152.87,HKG,Asia Pacific,Hong Kong,208 ms
+172.66.47.181,SEA,North America,Seattle,208 ms
+104.19.165.143,SEA,North America,Seattle,208 ms
+104.19.237.107,FRA,Europe,Frankfurt,208 ms
+104.17.250.238,SEA,North America,Seattle,208 ms
+104.17.235.83,SEA,North America,Seattle,208 ms
+104.22.21.196,SJC,North America,San Jose,208 ms
+104.19.168.199,SEA,North America,Seattle,208 ms
+172.67.77.226,SEA,North America,Seattle,208 ms
+104.17.232.96,SEA,North America,Seattle,208 ms
+172.66.45.218,SEA,North America,Seattle,208 ms
+104.17.233.127,SEA,North America,Seattle,208 ms
+104.19.171.47,SEA,North America,Seattle,209 ms
+104.17.23.12,HKG,Asia Pacific,Hong Kong,209 ms
+104.18.249.39,SJC,North America,San Jose,209 ms
+104.17.114.60,HKG,Asia Pacific,Hong Kong,209 ms
+104.21.230.110,SEA,North America,Seattle,209 ms
+104.18.240.44,SJC,North America,San Jose,209 ms
+104.21.22.128,SEA,North America,Seattle,209 ms
+104.18.5.39,SEA,North America,Seattle,209 ms
+104.18.4.79,SEA,North America,Seattle,209 ms
+104.16.62.76,SEA,North America,Seattle,209 ms
+104.21.21.107,SEA,North America,Seattle,209 ms
+104.19.163.5,SEA,North America,Seattle,209 ms
+104.22.6.162,SJC,North America,San Jose,209 ms
+104.18.10.142,SEA,North America,Seattle,209 ms
+104.19.229.201,FRA,Europe,Frankfurt,209 ms
+104.17.246.170,SEA,North America,Seattle,209 ms
+104.17.247.90,SEA,North America,Seattle,209 ms
+172.64.202.49,SJC,North America,San Jose,209 ms
+104.22.57.26,SEA,North America,Seattle,209 ms
+104.16.198.57,HKG,Asia Pacific,Hong Kong,209 ms
+104.16.130.62,FRA,Europe,Frankfurt,209 ms
+104.16.190.1,SJC,North America,San Jose,210 ms
+104.17.182.5,HKG,Asia Pacific,Hong Kong,210 ms
+172.67.165.175,SEA,North America,Seattle,210 ms
+104.17.163.181,HKG,Asia Pacific,Hong Kong,210 ms
+104.16.56.27,SEA,North America,Seattle,210 ms
+172.67.173.66,SEA,North America,Seattle,210 ms
+104.22.53.28,SEA,North America,Seattle,210 ms
+104.16.51.119,SEA,North America,Seattle,210 ms
+104.16.55.163,SEA,North America,Seattle,210 ms
+162.159.251.158,SJC,North America,San Jose,210 ms
+104.19.214.221,SJC,North America,San Jose,210 ms
+104.17.77.3,SJC,North America,San Jose,210 ms
+104.25.238.178,SJC,North America,San Jose,210 ms
+104.22.2.219,SJC,North America,San Jose,211 ms
+104.19.211.61,SJC,North America,San Jose,211 ms
+104.16.44.20,SEA,North America,Seattle,211 ms
+172.67.73.229,SEA,North America,Seattle,211 ms
+104.16.48.168,SEA,North America,Seattle,211 ms
+104.16.53.58,SEA,North America,Seattle,211 ms
+104.16.61.161,SEA,North America,Seattle,211 ms
+104.17.45.106,SJC,North America,San Jose,211 ms
+104.19.17.64,SJC,North America,San Jose,211 ms
+104.17.238.55,SEA,North America,Seattle,211 ms
+104.17.239.176,SEA,North America,Seattle,211 ms
+104.16.126.74,SJC,North America,San Jose,211 ms
+104.20.185.206,SJC,North America,San Jose,211 ms
+104.16.58.102,SEA,North America,Seattle,212 ms
+104.25.46.175,SJC,North America,San Jose,212 ms
+104.17.113.55,HKG,Asia Pacific,Hong Kong,212 ms
+104.16.129.148,FRA,Europe,Frankfurt,212 ms
+104.17.4.104,SJC,North America,San Jose,212 ms
+104.18.7.40,SEA,North America,Seattle,212 ms
+104.16.37.152,SEA,North America,Seattle,212 ms
+104.18.234.28,SJC,North America,San Jose,212 ms
+104.16.57.103,SEA,North America,Seattle,212 ms
+104.17.70.121,SJC,North America,San Jose,212 ms
+104.16.97.25,FRA,Europe,Frankfurt,212 ms
+104.16.106.215,FRA,Europe,Frankfurt,212 ms
+104.19.154.6,HKG,Asia Pacific,Hong Kong,212 ms
+104.17.57.165,HKG,Asia Pacific,Hong Kong,212 ms
+104.24.85.96,SJC,North America,San Jose,213 ms
+104.16.205.190,HKG,Asia Pacific,Hong Kong,213 ms
+172.67.67.207,SEA,North America,Seattle,213 ms
+104.25.177.10,SJC,North America,San Jose,213 ms
+104.16.33.28,SEA,North America,Seattle,213 ms
+104.17.49.40,HKG,Asia Pacific,Hong Kong,213 ms
+104.17.42.165,SJC,North America,San Jose,213 ms
+172.67.68.106,SEA,North America,Seattle,213 ms
+172.64.203.249,SJC,North America,San Jose,213 ms
+104.19.215.224,SJC,North America,San Jose,213 ms
+104.16.139.37,FRA,Europe,Frankfurt,213 ms
+172.67.189.244,SEA,North America,Seattle,213 ms
+104.16.183.112,SJC,North America,San Jose,213 ms
+104.21.38.254,SJC,North America,San Jose,213 ms
+104.16.153.137,HKG,Asia Pacific,Hong Kong,213 ms
+104.17.142.209,SJC,North America,San Jose,213 ms
+104.16.150.4,HKG,Asia Pacific,Hong Kong,213 ms
+104.16.148.198,HKG,Asia Pacific,Hong Kong,213 ms
+104.16.146.227,HKG,Asia Pacific,Hong Kong,213 ms
+104.18.34.112,FRA,Europe,Frankfurt,213 ms
+104.19.51.202,HKG,Asia Pacific,Hong Kong,213 ms
+104.17.80.82,SJC,North America,San Jose,214 ms
+104.17.110.191,HKG,Asia Pacific,Hong Kong,214 ms
+104.17.112.49,HKG,Asia Pacific,Hong Kong,214 ms
+104.16.158.165,HKG,Asia Pacific,Hong Kong,214 ms
+104.25.96.101,SJC,North America,San Jose,214 ms
+104.16.52.235,SEA,North America,Seattle,214 ms
+104.16.49.77,SEA,North America,Seattle,214 ms
+104.17.242.112,SEA,North America,Seattle,214 ms
+104.17.244.97,SEA,North America,Seattle,214 ms
+104.17.243.210,SEA,North America,Seattle,214 ms
+104.17.118.86,HKG,Asia Pacific,Hong Kong,214 ms
+104.16.178.121,SJC,North America,San Jose,214 ms
+104.16.79.251,SJC,North America,San Jose,214 ms
+172.67.177.175,SEA,North America,Seattle,214 ms
+104.17.148.167,HKG,Asia Pacific,Hong Kong,214 ms
+104.16.74.61,SJC,North America,San Jose,215 ms
+104.16.128.35,FRA,Europe,Frankfurt,215 ms
+104.20.180.245,SJC,North America,San Jose,215 ms
+104.16.100.209,FRA,Europe,Frankfurt,215 ms
+104.16.186.28,SJC,North America,San Jose,215 ms
+104.17.224.178,SEA,North America,Seattle,215 ms
+104.16.131.9,FRA,Europe,Frankfurt,215 ms
+172.67.164.79,SEA,North America,Seattle,215 ms
+104.16.247.102,HKG,Asia Pacific,Hong Kong,215 ms
+172.65.217.142,FRA,Europe,Frankfurt,216 ms
+104.27.192.207,SJC,North America,San Jose,216 ms
+104.19.238.239,FRA,Europe,Frankfurt,216 ms
+104.16.242.154,HKG,Asia Pacific,Hong Kong,216 ms
+104.16.243.142,HKG,Asia Pacific,Hong Kong,216 ms
+104.20.85.79,SJC,North America,San Jose,216 ms
+172.65.48.68,SJC,North America,San Jose,216 ms
+104.16.54.179,SEA,North America,Seattle,216 ms
+104.19.141.16,SJC,North America,San Jose,217 ms
+104.19.218.164,SJC,North America,San Jose,217 ms
+104.16.155.255,HKG,Asia Pacific,Hong Kong,217 ms
+104.16.254.191,HKG,Asia Pacific,Hong Kong,217 ms
+104.24.196.141,SJC,North America,San Jose,217 ms
+172.67.188.210,SEA,North America,Seattle,217 ms
+172.67.174.87,SEA,North America,Seattle,217 ms
+104.17.147.254,HKG,Asia Pacific,Hong Kong,217 ms
+104.16.36.175,SEA,North America,Seattle,217 ms
+104.17.101.59,HKG,Asia Pacific,Hong Kong,217 ms
+172.64.147.152,HKG,Asia Pacific,Hong Kong,217 ms
+172.67.191.54,SEA,North America,Seattle,217 ms
+104.16.8.217,SEA,North America,Seattle,217 ms
+104.16.5.3,SEA,North America,Seattle,217 ms
+104.16.4.247,SEA,North America,Seattle,217 ms
+104.24.192.169,SJC,North America,San Jose,218 ms
+104.19.50.68,HKG,Asia Pacific,Hong Kong,218 ms
+104.17.63.66,HKG,Asia Pacific,Hong Kong,218 ms
+104.20.53.133,FRA,Europe,Frankfurt,218 ms
+104.20.55.35,FRA,Europe,Frankfurt,218 ms
+104.17.117.23,HKG,Asia Pacific,Hong Kong,218 ms
+172.67.170.42,SEA,North America,Seattle,218 ms
+172.67.169.121,SEA,North America,Seattle,218 ms
+104.17.97.46,HKG,Asia Pacific,Hong Kong,218 ms
+104.17.161.29,HKG,Asia Pacific,Hong Kong,218 ms
+104.17.160.78,HKG,Asia Pacific,Hong Kong,219 ms
+104.19.245.108,SJC,North America,San Jose,219 ms
+104.16.222.46,SJC,North America,San Jose,219 ms
+104.25.184.93,SJC,North America,San Jose,219 ms
+104.21.209.90,SJC,North America,San Jose,219 ms
+104.16.248.177,HKG,Asia Pacific,Hong Kong,219 ms
+104.19.179.230,SJC,North America,San Jose,219 ms
+104.20.153.132,SJC,North America,San Jose,219 ms
+104.19.231.225,FRA,Europe,Frankfurt,220 ms
+104.19.98.35,SJC,North America,San Jose,220 ms
+104.19.178.133,SJC,North America,San Jose,220 ms
+104.16.202.176,HKG,Asia Pacific,Hong Kong,220 ms
+104.21.33.130,SJC,North America,San Jose,220 ms
+104.19.174.98,SEA,North America,Seattle,220 ms
+104.17.90.166,SJC,North America,San Jose,220 ms
+104.17.96.118,HKG,Asia Pacific,Hong Kong,220 ms
+104.22.9.119,SJC,North America,San Jose,220 ms
+104.19.118.26,SJC,North America,San Jose,221 ms
+104.19.117.109,SJC,North America,San Jose,221 ms
+104.16.244.232,HKG,Asia Pacific,Hong Kong,221 ms
+172.67.120.135,SJC,North America,San Jose,221 ms
+104.16.250.69,HKG,Asia Pacific,Hong Kong,221 ms
+104.19.219.98,SJC,North America,San Jose,221 ms
+104.17.48.128,HKG,Asia Pacific,Hong Kong,221 ms
+104.17.100.33,HKG,Asia Pacific,Hong Kong,221 ms
+104.25.43.178,SJC,North America,San Jose,221 ms
+104.17.58.56,HKG,Asia Pacific,Hong Kong,221 ms
+104.16.253.57,HKG,Asia Pacific,Hong Kong,221 ms
+172.67.234.44,SJC,North America,San Jose,221 ms
+104.19.233.116,FRA,Europe,Frankfurt,221 ms
+104.19.209.30,SJC,North America,San Jose,222 ms
+104.17.47.239,SJC,North America,San Jose,222 ms
+104.16.197.35,HKG,Asia Pacific,Hong Kong,222 ms
+104.17.151.255,HKG,Asia Pacific,Hong Kong,222 ms
+104.20.163.4,SJC,North America,San Jose,222 ms
+104.16.251.199,HKG,Asia Pacific,Hong Kong,222 ms
+190.93.246.144,SJC,North America,San Jose,222 ms
+104.16.159.41,HKG,Asia Pacific,Hong Kong,222 ms
+104.16.227.4,SJC,North America,San Jose,222 ms
+104.16.135.22,FRA,Europe,Frankfurt,222 ms
+104.20.49.98,FRA,Europe,Frankfurt,222 ms
+104.20.48.215,FRA,Europe,Frankfurt,222 ms
+104.25.163.234,SJC,North America,San Jose,223 ms
+104.20.89.69,SJC,North America,San Jose,223 ms
+172.67.158.163,SEA,North America,Seattle,223 ms
+162.159.15.218,SJC,North America,San Jose,223 ms
+172.64.152.80,HKG,Asia Pacific,Hong Kong,223 ms
+104.16.230.63,SJC,North America,San Jose,223 ms
+104.17.116.126,HKG,Asia Pacific,Hong Kong,223 ms
+104.16.168.156,SJC,North America,San Jose,223 ms
+104.17.126.219,HKG,Asia Pacific,Hong Kong,223 ms
+104.17.124.185,HKG,Asia Pacific,Hong Kong,223 ms
+104.16.166.73,SJC,North America,San Jose,224 ms
+173.245.49.118,SJC,North America,San Jose,224 ms
+104.19.158.182,HKG,Asia Pacific,Hong Kong,224 ms
+198.41.192.59,SJC,North America,San Jose,224 ms
+104.17.149.114,HKG,Asia Pacific,Hong Kong,224 ms
+104.21.219.23,SJC,North America,San Jose,224 ms
+104.16.114.254,SJC,North America,San Jose,225 ms
+172.67.43.149,SJC,North America,San Jose,225 ms
+104.17.115.170,HKG,Asia Pacific,Hong Kong,225 ms
+104.19.236.82,FRA,Europe,Frankfurt,225 ms
+104.19.227.139,FRA,Europe,Frankfurt,225 ms
+104.17.129.247,SJC,North America,San Jose,225 ms
+104.16.102.145,FRA,Europe,Frankfurt,225 ms
+104.16.23.104,SJC,North America,San Jose,225 ms
+104.16.208.7,SJC,North America,San Jose,225 ms
+104.19.241.69,SJC,North America,San Jose,226 ms
+104.17.41.87,SJC,North America,San Jose,226 ms
+104.17.121.51,HKG,Asia Pacific,Hong Kong,226 ms
+104.16.99.80,FRA,Europe,Frankfurt,226 ms
+104.16.108.8,FRA,Europe,Frankfurt,226 ms
+104.16.96.102,FRA,Europe,Frankfurt,226 ms
+104.16.98.188,FRA,Europe,Frankfurt,226 ms
+104.16.107.126,FRA,Europe,Frankfurt,226 ms
+104.16.177.193,SJC,North America,San Jose,226 ms
+104.16.138.33,FRA,Europe,Frankfurt,226 ms
+104.17.197.163,SJC,North America,San Jose,226 ms
+172.67.66.193,SEA,North America,Seattle,226 ms
+104.25.234.89,SJC,North America,San Jose,226 ms
+104.19.224.103,FRA,Europe,Frankfurt,226 ms
+104.16.95.118,SJC,North America,San Jose,227 ms
+104.17.61.99,HKG,Asia Pacific,Hong Kong,227 ms
+104.16.90.244,SJC,North America,San Jose,227 ms
+104.16.83.231,SJC,North America,San Jose,227 ms
+104.16.143.251,FRA,Europe,Frankfurt,227 ms
+104.17.150.215,HKG,Asia Pacific,Hong Kong,228 ms
+104.18.253.203,SJC,North America,San Jose,228 ms
+104.16.154.199,HKG,Asia Pacific,Hong Kong,228 ms
+104.17.78.67,SJC,North America,San Jose,228 ms
+104.19.125.92,SJC,North America,San Jose,228 ms
+104.18.235.193,SJC,North America,San Jose,228 ms
+104.20.52.253,FRA,Europe,Frankfurt,228 ms
+104.24.223.53,SJC,North America,San Jose,228 ms
+172.64.129.23,SJC,North America,San Jose,229 ms
+104.20.190.245,SJC,North America,San Jose,229 ms
+104.24.209.44,SJC,North America,San Jose,229 ms
+104.25.168.145,SJC,North America,San Jose,229 ms
+104.16.142.175,FRA,Europe,Frankfurt,230 ms
+104.17.206.2,SJC,North America,San Jose,230 ms
+104.17.144.157,HKG,Asia Pacific,Hong Kong,230 ms
+104.16.136.177,FRA,Europe,Frankfurt,231 ms
+104.19.149.188,HKG,Asia Pacific,Hong Kong,231 ms
+172.67.216.167,SJC,North America,San Jose,231 ms
+104.19.150.125,HKG,Asia Pacific,Hong Kong,231 ms
+104.20.61.16,FRA,Europe,Frankfurt,231 ms
+104.17.123.83,HKG,Asia Pacific,Hong Kong,232 ms
+104.19.234.121,FRA,Europe,Frankfurt,232 ms
+104.19.235.86,FRA,Europe,Frankfurt,232 ms
+104.17.107.224,HKG,Asia Pacific,Hong Kong,232 ms
+104.17.127.47,HKG,Asia Pacific,Hong Kong,232 ms
+104.20.144.253,SJC,North America,San Jose,233 ms
+104.17.111.83,HKG,Asia Pacific,Hong Kong,233 ms
+104.20.56.31,FRA,Europe,Frankfurt,233 ms
+104.18.39.130,HKG,Asia Pacific,Hong Kong,233 ms
+104.16.111.103,FRA,Europe,Frankfurt,233 ms
+104.16.141.48,FRA,Europe,Frankfurt,233 ms
+104.16.109.26,FRA,Europe,Frankfurt,233 ms
+104.16.105.52,FRA,Europe,Frankfurt,234 ms
+104.16.103.161,FRA,Europe,Frankfurt,234 ms
+104.16.101.9,FRA,Europe,Frankfurt,234 ms
+104.16.181.1,SJC,North America,San Jose,234 ms
+104.17.145.155,HKG,Asia Pacific,Hong Kong,234 ms
+104.16.133.213,FRA,Europe,Frankfurt,235 ms
+104.16.21.166,SJC,North America,San Jose,235 ms
+172.67.124.119,LAX,North America,Los Angeles,235 ms
+104.17.62.13,HKG,Asia Pacific,Hong Kong,235 ms
+104.20.63.222,FRA,Europe,Frankfurt,236 ms
+104.17.106.251,HKG,Asia Pacific,Hong Kong,236 ms
+104.16.110.8,FRA,Europe,Frankfurt,236 ms
+104.17.56.19,HKG,Asia Pacific,Hong Kong,236 ms
+104.19.116.221,SJC,North America,San Jose,237 ms
+104.27.204.76,SJC,North America,San Jose,237 ms
+104.17.51.145,HKG,Asia Pacific,Hong Kong,237 ms
+104.20.57.107,FRA,Europe,Frankfurt,237 ms
+172.67.141.103,FRA,Europe,Frankfurt,238 ms
+104.17.120.0,HKG,Asia Pacific,Hong Kong,238 ms
+104.17.119.33,HKG,Asia Pacific,Hong Kong,238 ms
+104.19.147.83,HKG,Asia Pacific,Hong Kong,238 ms
+104.19.146.76,HKG,Asia Pacific,Hong Kong,238 ms
+104.17.109.121,HKG,Asia Pacific,Hong Kong,240 ms
+172.67.245.92,SJC,North America,San Jose,240 ms
+104.17.52.62,HKG,Asia Pacific,Hong Kong,240 ms
+104.17.60.55,HKG,Asia Pacific,Hong Kong,241 ms
+104.17.59.251,HKG,Asia Pacific,Hong Kong,242 ms
+104.24.179.24,LAX,North America,Los Angeles,243 ms
+172.67.64.232,SEA,North America,Seattle,243 ms
+172.64.153.154,FRA,Europe,Frankfurt,243 ms
+104.20.59.214,FRA,Europe,Frankfurt,244 ms
+104.20.62.187,FRA,Europe,Frankfurt,244 ms
+198.41.214.7,LAX,North America,Los Angeles,246 ms
+172.67.128.199,FRA,Europe,Frankfurt,246 ms
+104.20.50.25,FRA,Europe,Frankfurt,249 ms
+104.20.58.95,FRA,Europe,Frankfurt,250 ms
+172.67.140.227,SIN,Asia Pacific,Singapore,257 ms
+172.67.130.89,FRA,Europe,Frankfurt,258 ms
+172.67.65.92,SEA,North America,Seattle,260 ms
+198.41.221.62,HKG,Asia Pacific,Hong Kong,270 ms
+198.41.220.22,HKG,Asia Pacific,Hong Kong,271 ms
+172.67.129.12,FRA,Europe,Frankfurt,272 ms
+172.64.233.13,FRA,Europe,Frankfurt,273 ms
+172.67.143.98,FRA,Europe,Frankfurt,273 ms
+172.67.135.221,FRA,Europe,Frankfurt,275 ms
+172.67.137.111,NRT,Asia Pacific,Tokyo,277 ms
+172.67.139.198,FRA,Europe,Frankfurt,277 ms
+172.67.131.104,NRT,Asia Pacific,Tokyo,278 ms
+104.20.46.86,LAX,North America,Los Angeles,280 ms
+172.67.150.0,SEA,North America,Seattle,282 ms
+172.67.151.87,SEA,North America,Seattle,282 ms
+172.67.49.159,SJC,North America,San Jose,285 ms
+172.67.132.40,FRA,Europe,Frankfurt,285 ms
+104.16.14.76,SEA,North America,Seattle,286 ms
+172.64.78.104,MIA,North America,Miami,287 ms
+172.67.142.229,NRT,Asia Pacific,Tokyo,287 ms
+104.20.242.196,SJC,North America,San Jose,287 ms
+172.67.148.210,SEA,North America,Seattle,288 ms
+172.67.149.195,SEA,North America,Seattle,288 ms
+172.67.152.135,SEA,North America,Seattle,288 ms
+172.67.147.79,SEA,North America,Seattle,288 ms
+172.64.228.164,HKG,Asia Pacific,Hong Kong,288 ms
+104.20.19.130,LAX,North America,Los Angeles,289 ms
+104.17.28.61,HKG,Asia Pacific,Hong Kong,300 ms
+172.65.227.92,LAX,North America,Los Angeles,314 ms
+104.17.25.191,HKG,Asia Pacific,Hong Kong,315 ms
+162.159.160.218,FRA,Europe,Frankfurt,321 ms
+104.17.30.100,HKG,Asia Pacific,Hong Kong,327 ms
+104.17.29.9,HKG,Asia Pacific,Hong Kong,328 ms
+172.64.68.59,LAX,North America,Los Angeles,328 ms
+172.67.134.57,SIN,Asia Pacific,Singapore,333 ms
+104.17.31.248,HKG,Asia Pacific,Hong Kong,333 ms
+172.67.56.74,SJC,North America,San Jose,334 ms
+172.67.136.176,NRT,Asia Pacific,Tokyo,336 ms
+104.17.20.110,HKG,Asia Pacific,Hong Kong,337 ms
+104.17.21.5,HKG,Asia Pacific,Hong Kong,337 ms
+104.17.22.103,HKG,Asia Pacific,Hong Kong,337 ms
+172.67.51.154,SJC,North America,San Jose,338 ms
+104.17.26.153,HKG,Asia Pacific,Hong Kong,342 ms
+104.17.27.168,HKG,Asia Pacific,Hong Kong,342 ms
+198.41.217.140,SJC,North America,San Jose,347 ms
+104.17.18.62,HKG,Asia Pacific,Hong Kong,352 ms
+104.17.24.138,HKG,Asia Pacific,Hong Kong,352 ms
+104.17.17.94,HKG,Asia Pacific,Hong Kong,352 ms
+104.17.16.100,HKG,Asia Pacific,Hong Kong,352 ms
+172.65.222.72,FRA,Europe,Frankfurt,375 ms
+104.16.252.228,HKG,Asia Pacific,Hong Kong,381 ms
