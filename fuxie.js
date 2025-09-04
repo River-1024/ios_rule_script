@@ -1,5 +1,5 @@
 /*
-powerfullz 的 Substore 订阅转换脚本
+powerfullz 的 Substore 订阅转换脚本11
 https://github.com/powerfullz/override-rules
 传入参数：
 - loadbalance: 启用负载均衡 (默认false)
@@ -608,3 +608,4 @@ function main(config) {
     return config;
 
 }
+
