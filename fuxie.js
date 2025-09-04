@@ -22,8 +22,8 @@ const loadBalance = parseBool(inArg.loadbalance) || false,
 
 function buildBaseLists({ landing, lowCost, countryInfo, fallbackEnabled }) {
     const countryGroupNames = countryInfo
-        .filter(item => item.count > 2)
-        .map(item => item.country + "节点");
+        。filter(item => item.count > 2)
+        。map(item => item.country + "节点");
 
     // defaultSelector (选择节点 组里展示的候选) 
     // 故障转移(可选), 落地节点(可选), 各地区节点, 低倍率节点(可选), 手动选择, DIRECT
@@ -606,4 +606,5 @@ function main(config) {
     });
 
     return config;
+
 }
